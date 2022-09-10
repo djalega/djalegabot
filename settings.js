@@ -54,22 +54,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['+2250143343357'] //ur owner number
+global.vcardowner = ['225143343357'] //ur owner number
 global.ownername = "djalega++" //ur owner name
 global.ytname = "xxx" //ur yt chanel name
 global.socialm = "xxx" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Abidjan,yopougon" //ur location
 
 //bot bomdy 
-global.owner = ['+2250143343357']
-global.ownertag = '+2250143343357' //ur tag number
+global.owner = ['225143343357']
+global.ownertag = '225143343357' //ur tag number
 global.botname = 'djalega++' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "xx" //ur website to be displayed
 global.botscript = 'https://github.com/djalega/djalegabot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "djalega++ " //ur sticker watermark packname
+global.packname = "djalega++ " //ur sticker watermark packnam
 global.author = "djalega++" //ur sticker watermark author
 
 //Bot theme media
